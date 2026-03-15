@@ -1,0 +1,93 @@
+{
+  "recipes": [
+    {
+      "name": "Rendang Padang v2",
+      "description": "Rendang adalah hidangan daging yang kaya rempah dengan cita rasa pedas. Hidangan ini berasal dari Minangkabau, Sumatera Barat, Indonesia.",
+      "origin": "Sumatera Barat",
+      "category": "utama",
+      "image": "https://img-global.cpcdn.com/recipes/3a60ab40b445f112/260x320f0.5_0.5_1.0q50/bumbu-rendang-foto-resep-utama.webp",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Sate Ayam Madura",
+      "description": "Sate ayam dengan bumbu kacang khas Madura yang gurih dan manis, disajikan dengan lontong atau nasi.",
+      "origin": "Jawa Timur",
+      "image": "https://img-global.cpcdn.com/recipes/2819855238428732/260x320f0.514984_0.5_1.0q50/sate-ayam-madura-rumahan-foto-resep-utama.webp",
+      "category": "utama"
+    },
+    {
+      "name": "Gado-gado",
+      "description": "Salad sayuran segar yang direbus dan disiram dengan saus kacang, dilengkapi dengan telur, tahu, dan kerupuk.",
+      "origin": "DKI Jakarta",
+      "category": "utama",
+      "image": "https://img-global.cpcdn.com/recipes/8262d45ca47b14d5/260x320f0.5_0.479027_1.0q50/gado-gado-siram-suroboyo-foto-resep-utama.webp",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Pempek Palembang",
+      "description": "Kue ikan yang digoreng, disajikan dengan saus cuka pedas manis yang disebut kuah cuko.",
+      "origin": "Sumatera Selatan",
+      "image": "https://img-global.cpcdn.com/recipes/d7a00d93c3a7743b/260x320cq50/pempek-putih-telur-foto-resep-utama.webp",
+      "category": "jajanan"
+    },
+    {
+      "id": "5",
+      "name": "Es Cendol",
+      "description": "Minuman penutup yang terbuat dari tepung beras, disajikan dengan santan, gula merah cair, dan es serut.",
+      "origin": "Jawa Barat",
+      "image": "https://img-global.cpcdn.com/recipes/72f01a3e80ff4e49/260x320f0.5_0.504988_1.0q50/es-cendol-ala-yoshinoya-foto-resep-utama.webp",
+      "category": "minuman"
+    },
+    {
+      "id": "6",
+      "name": "Sambal Matah",
+      "description": "Sambal segar khas Bali yang terbuat dari irisan bawang merah, cabai, serai, dan daun jeruk, disiram dengan minyak kelapa panas.",
+      "origin": "Bali",
+      "image": "https://img-global.cpcdn.com/recipes/75c339845bc3fcb9/260x320f0.5_0.5_1.0q50/tongkol-suwir-telur-dadar-sambal-matah-foto-resep-utama.webp",
+      "category": "sambal"
+    },
+    {
+      "id": "7",
+      "name": "Bakso Malang",
+      "description": "Bakso daging sapi yang disajikan dengan mie, tahu, pangsit, dan kuah kaldu yang gurih.",
+      "origin": "Jawa Timur",
+      "image": "https://img-global.cpcdn.com/recipes/498d2a9eb28f4b44/260x320f0.500332_0.5_1.0q50/bakso-malang-ala-jeng-hayu-foto-resep-utama.webp",
+      "category": "utama"
+    },
+    {
+      "id": "8",
+      "name": "Klepon",
+      "description": "Kue tradisional berbentuk bola-bola kecil yang terbuat dari tepung ketan, diisi dengan gula merah cair, dan dilapisi kelapa parut.",
+      "origin": "Jawa Tengah",
+      "image": "https://img-global.cpcdn.com/recipes/4616ac296f089d74/260x320f0.514334_0.547289_1.02916q50/kue-klepon-gula-merah-foto-resep-utama.webp",
+      "category": "kue"
+    },
+    {
+      "id": "9",
+      "name": "Dadar Gulung",
+      "description": "Kue dadar tipis yang diisi dengan parutan kelapa manis dan gula merah, kemudian digulung.",
+      "origin": "Jawa Barat",
+      "image": "https://img-global.cpcdn.com/recipes/ba5a7f3a18c07f3b/260x320f0.5_0.5_1.0q50/dadar-gulung-foto-resep-utama.webp",
+      "category": "kue"
+    },
+    {
+      "id": "10",
+      "name": "Lapis Legit",
+      "description": "Kue lapis yang terbuat dari adonan mentega, telur, dan rempah-rempah, dipanggang berlapis-lapis hingga berwarna cokelat keemasan.",
+      "origin": "Betawi",
+      "image": "https://img-global.cpcdn.com/recipes/2105cc6283bd639a/260x320f0.43412_0.49988_1.0q50/lapis-legit-kukus-foto-resep-utama.webp",
+      "category": "kue"
+    },
+    {
+      "name": "Tempe",
+      "description": "Tempe",
+      "image": "https://3.bp.blogspot.com/-8n6T2osq3JI/UyKWOXiLRuI/AAAAAAAADPM/EKTNoxVi_q0/s1600/cartoon-1.jpg",
+      "category": "jajanan",
+      "origin": "Jakarta",
+      "id": "11"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
